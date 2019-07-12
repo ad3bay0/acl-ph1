@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * action method to launch activity B
+     * action method to launch  about alc activity
      */
     public void launchAboutAlcActivity(View view){
 
@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     /**
-     * action method to launch activity C
+     * action method to launch my profile activity
      */
     public void launchMyProfileActivity(View view){
         startActivity(new Intent(this,MyProfileActivity.class));
