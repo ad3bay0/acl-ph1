@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="about_alc_title">ABOUT ALC</string>
+    <string name="my_profile_title">MY PROFILE</string>
+    <string name="welcome_label">Welcome to ALC 4.0</string>
+
+    <string name="my_name">Adebayo Adeniyan</string>
+    <string name="track_detail">Track: Android</string>
+    <string name="country_detail">Country: Nigeria</string>
+    <string name="email_detail">Email: adebeslick@gmail.com</string>
+    <string name="phone_number">Phone Number: +2348038578169</string>
+    <string name="slack_detail">Slack Username: ad3bay0</string>
+</resources>
